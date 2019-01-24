@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StudApp</string>
+    <string-array name="degreelist1">
+        <item>Bsc computerscience
+        </item>
+        <item> BCA</item>
+    </string-array>
 </resources>
